@@ -6,7 +6,7 @@ spring:
     config:
       server:
         git:
-          default-label: configServer
+          default-label: eureka
           uri: https://github.com/Cledxs/Feign-project
           search-paths: config-data
   application:
